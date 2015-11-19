@@ -20,3 +20,8 @@ ready to be used (or not).
 
 How do the diagrams help you visualize the branch structure?
 Diagrams allows me to see the branch history and the reachability of every commit.
+
+What is the result of merging two branches together? Why do we represent it 
+in the diagram the way we do?
+The result is a branch with te modifications made in both merged branches. We represent
+in that way to show the two different paths the modifications took.
