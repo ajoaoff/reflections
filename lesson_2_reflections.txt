@@ -1,0 +1,9 @@
+What happens when you initialize a repository? Why do you need to do it?
+Git creates the metadata, marking that directory as a repository. It is
+necessary for git to take control of what is changed.
+
+How is the staging area different from the working directory and the repository? 
+What value do you think it offers?
+The staging area have files that are part of the repository but have been
+changed since last commit. Not all files in the working directory are necessarily
+part of the staging area.
